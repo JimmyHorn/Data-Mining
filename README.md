@@ -13,7 +13,7 @@
 
 | 作者           |  時間      |                      文章                        |
 | ---------      | -----------| ------------------------------------------------ |
-| [skydome20][1] | 2016-03-08 | [安裝R與RStudio](https://PO-LAB.github.io/Data-Mining/skydome20/安裝R與RStudio) | 
+| [skydome20][1] | 2016-03-08 | [安裝R與RStudio](https://po-lab.github.io/Data-Mining/skydome20/安裝R與RStudio) | 
 
 
    
