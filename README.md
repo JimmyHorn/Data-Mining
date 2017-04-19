@@ -3,6 +3,9 @@
 
 成功大學在職專班的資料探勘課程(data mining)，李家岩老師授課
 
+http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=2&co_no=N061700&class_code=
+
+
 
 [1]: https://github.com/skydome20
 
