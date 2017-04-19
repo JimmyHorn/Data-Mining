@@ -7,7 +7,8 @@ http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=2&c
 
 
 
-[1]: https://github.com/skydome20
+[1]: http://rpubs.com/skydome20/Table
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
   
