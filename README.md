@@ -1,7 +1,10 @@
 
 # Data Mining
 
-成功大學在職專班的資料探勘課程(data mining)，李家岩老師授課
+### **課程概述**
+
+此網頁為<a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=2&co_no=N061700&class_code" target="_blank">資料探勘</a>課程的R程式實作教學，
+開課教師為<a href="http://polab.imis.ncku.edu.tw/Bio.html" target="_blank">李家岩</a>老師，是由國立成功大學工程管理在職專班所開授的進階課程，鼓勵學生進行案例探討、分析與實作。
 
 http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=2&co_no=N061700&class_code=
 
