@@ -87,12 +87,12 @@
 
 |  更新時間       |                      文章                                                                             |
 |  -----------    | ----------------------------------------------------------------------------------------------------- |
-|  2017-05-19     | [線性迴歸、變異數分析(ANOVA)](https://po-lab.github.io/Data-Mining/Source-File/線性迴歸、變異數分析(ANOVA)/線性迴歸、變異數分析(ANOVA).html)       | 
+|  2017-05-19     | [線性迴歸、變異數分析(ANOVA)](https://po-lab.github.io/Data-Mining/Source-File/線性迴歸、變異數分析/線性迴歸、變異數分析.html)       | 
 |  2017-05-19     | [關聯式規則(Association rule)](https://po-lab.github.io/Data-Mining/Source-File/關聯式規則/關聯式規則.html)             | 
 |  2017-05-19     | [決策樹(Decision Tree)](https://po-lab.github.io/Data-Mining/Source-File/決策樹/決策樹.html)       | 
-|  2017-05-19     | [類神經網路(BPN)](https://po-lab.github.io/Data-Mining/Source-File/類神經網路(BPN)/類神經網路(BPN).html)       | 
-|  2017-05-19     | [主成份分析(PCA)](https://po-lab.github.io/Data-Mining/Source-File/主成份分析(PCA)/主成份分析(PCA).html)             | 
-|  2017-05-19     | [分群分析(Clustering)](https://po-lab.github.io/Data-Mining/Source-File/分群分析(Clustering)/分群分析(Clustering).html)       | 
+|  2017-05-19     | [類神經網路(BPN)](https://po-lab.github.io/Data-Mining/Source-File/類神經網路/類神經網路.html)       | 
+|  2017-05-19     | [主成份分析(PCA)](https://po-lab.github.io/Data-Mining/Source-File/主成份分析/主成份分析.html)             | 
+|  2017-05-19     | [分群分析(Clustering)](https://po-lab.github.io/Data-Mining/Source-File/分群分析/分群分析.html)       | 
 
 
 
