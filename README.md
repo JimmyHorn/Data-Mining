@@ -69,9 +69,9 @@
    
 ## **￡資料視覺化**  
 
-| 作者           |  發表時間      |                      文章                        |
-| ---------      | -----------    | ------------------------------------------------ |
-| [skydome20][1] | 2016-04-05     | [繪圖–資料視覺化](https://PO-LAB.github.io/Data-Mining/skydome20/繪圖–資料視覺化)  | 
+|  更新時間       |                      文章                                                                             |
+|  -----------    | ----------------------------------------------------------------------------------------------------- |
+|  2017-05-19     | [繪圖–資料視覺化](https://po-lab.github.io/Data-Mining/Source-File/繪圖–資料視覺化/繪圖–資料視覺化.html)       |
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -84,14 +84,15 @@
 ## **￡模型建構**  
    
    
-| 作者           |  發表時間      |                      文章                        |
-| -------------- | -----------    | ------------------------------------------------ |
-| [skydome20][1] | 2016-04-08     | [初聲試啼-簡單的資料分析(迴歸分析)](https://PO-LAB.github.io/Data-Mining/skydome20/初聲試啼-簡單的資料分析(迴歸分析))  | 
-| [skydome20][1] | 2016-04-27     | [關聯式規則；決策樹(分析鐵達尼號資料)](https://PO-LAB.github.io/Data-Mining/skydome20/關聯式規則；決策樹(分析鐵達尼號資料))  | 
-| [skydome20][1] | 2016-05-23     | [主成份分析(2012美國職棒MLB)](https://PO-LAB.github.io/Data-Mining/skydome20/主成份分析(2012美國職棒MLB))  | 
-| [skydome20][1] | 2016-05-23     | [類神經網路(neuralnet)](https://PO-LAB.github.io/Data-Mining/skydome20/類神經網路(neuralnet))  | 
-| [skydome20][1] | 2016-06-06     | [分群分析(Clustering)](https://PO-LAB.github.io/Data-Mining/skydome20/分群分析(Clustering))  | 
 
+|  更新時間       |                      文章                                                                             |
+|  -----------    | ----------------------------------------------------------------------------------------------------- |
+|  2017-05-19     | [線性迴歸、變異數分析(ANOVA)](https://po-lab.github.io/Data-Mining/Source-File/線性迴歸、變異數分析(ANOVA)/線性迴歸、變異數分析(ANOVA).html)       | 
+|  2017-05-19     | [關聯式規則(Association rule)](https://po-lab.github.io/Data-Mining/Source-File/關聯式規則/關聯式規則.html)             | 
+|  2017-05-19     | [決策樹(Decision Tree)](https://po-lab.github.io/Data-Mining/Source-File/決策樹/決策樹.html)       | 
+|  2017-05-19     | [類神經網路(BPN)](https://po-lab.github.io/Data-Mining/Source-File/類神經網路(BPN)/類神經網路(BPN).html)       | 
+|  2017-05-19     | [主成份分析(PCA)](https://po-lab.github.io/Data-Mining/Source-File/主成份分析(PCA)/主成份分析(PCA).html)             | 
+|  2017-05-19     | [分群分析(Clustering)](https://po-lab.github.io/Data-Mining/Source-File/分群分析(Clustering)/分群分析(Clustering).html)       | 
 
 
 

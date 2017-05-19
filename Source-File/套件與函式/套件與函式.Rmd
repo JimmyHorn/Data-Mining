@@ -1,5 +1,5 @@
 ---
-title: "DM---基本資料型態"
+title: "DM---套件與函式"
 author: "POLab"
 date: "2017/05/19"
 output:
