@@ -6,11 +6,18 @@
 此網頁為<a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=2&co_no=N061700&class_code" target="_blank">資料探勘</a>課程的R程式實作教學，
 開課教師為<a href="http://polab.imis.ncku.edu.tw/Bio.html" target="_blank">李家岩</a>老師，是由國立成功大學工程管理在職專班所開授的進階課程，鼓勵學生進行案例探討、分析與實作。
 
-http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=2&co_no=N061700&class_code=
+
+助教群
+| 擔任年份   |  助教            |                      LinkedIn                                                          |
+| ---------  | -----------      | ------------------------------------------------                                       |
+| 2017       | [Allan][2]       | [https://www.linkedin.com/in/iamallanchou](https://www.linkedin.com/in/iamallanchou)   | 
+| 2016       | [skydome20][1]   | [https://www.linkedin.com/in/skydome20](https://www.linkedin.com/in/skydome20)         | 
 
 
 
 [1]: http://rpubs.com/skydome20/Table
+[2]: http://rpubs.com/allan811118/R_programming_00
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -18,9 +25,9 @@ http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=2&c
 ## **￡環境建置**   
 
 
-| 作者           |  發表時間      |                      文章                        |
-| ---------      | -----------    | ------------------------------------------------ |
-| [skydome20][1] | 2016-03-08     | [安裝R與RStudio](https://po-lab.github.io/Data-Mining/skydome20/安裝R與RStudio) | 
+|  更新時間       |                      文章                                                                             |
+|  -----------    | ------------------------------------------------ -----------------------------------------------------|
+|  2017-05-19     | [安裝R與RStudio](https://po-lab.github.io/Data-Mining/Source File/安裝R與RStudio/安裝R與RStudio.html) | 
 
 
    
