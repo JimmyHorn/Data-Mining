@@ -3,7 +3,7 @@
 
 ### **課程概述**
 
-此網頁為[資料探勘](http://course-query.acad.ncku.edu.tw/crm/course_map/course.php?dept=N0&cono=N061700)課程的R程式實作教學   
+此網頁為[資料探勘課程](http://course-query.acad.ncku.edu.tw/crm/course_map/course.php?dept=N0&cono=N061700)的R程式實作教學   
      
 開課教師為[李家岩](http://polab.imis.ncku.edu.tw/Bio.html)老師   
 
