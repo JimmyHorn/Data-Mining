@@ -17,11 +17,11 @@
 [2]: http://rpubs.com/allan811118/R_programming_00
 
 
-| 擔任年份   |  助教             |                      LinkedIn                                                                                                                |
-|:---------: | :-----------:     |:---------------------------------------------------------------------------------------:                                                     |
-| 2017       | [Allan][2]        | [https://www.linkedin.com/in/iamallanchou](https://www.linkedin.com/in/iamallanchou)                                                         | 
-| 2017       |  Bokai            | [https://www.linkedin.com/in/bo-kai-Jang](https://www.linkedin.com/in/bo-kai-Jang)                                                                                                            |
-| 2016       | [skydome20][1]    | [https://www.linkedin.com/in/skydome20](https://www.linkedin.com/in/skydome20)                                                               | 
+| 擔任年份   |  助教             |                      LinkedIn                                                            |
+|:---------: | :-----------:     |:---------------------------------------------------------------------------------------: |
+| 2017       | [Allan][2]        | [https://www.linkedin.com/in/iamallanchou](https://www.linkedin.com/in/iamallanchou)     | 
+| 2017       |  Bokai            | [https://www.linkedin.com/in/bo-kai-Jang](https://www.linkedin.com/in/bo-kai-Jang)       |
+| 2016       | [skydome20][1]    | [https://www.linkedin.com/in/skydome20](https://www.linkedin.com/in/skydome20)           | 
 
 
 
