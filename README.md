@@ -17,7 +17,7 @@
 [2]: http://rpubs.com/allan811118/R_programming_00
 
 
-| 擔任年份   |  助教        |    暱稱         |                      LinkedIn                                                            |
+| 擔任年份   |  助教        |    Blog         |                      LinkedIn                                                            |
 |:---------: | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
 | 2017       | 周百建       | [Allan][2]      | [https://www.linkedin.com/in/iamallanchou](https://www.linkedin.com/in/iamallanchou)     | 
 | 2017       | 張博凱       | Bokai           | [https://www.linkedin.com/in/bo-kai-Jang](https://www.linkedin.com/in/bo-kai-Jang)       |
